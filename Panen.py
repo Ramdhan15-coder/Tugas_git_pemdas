@@ -104,3 +104,5 @@ for z, q in data_panen.items():
         print(f"{z} Kondisi Baik")
 print("\n")
        
+       
+print("ini adalah baris baru")
