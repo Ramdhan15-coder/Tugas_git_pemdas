@@ -1,1 +1,1 @@
-print("Ini perubahan dari branch master")
+print("Ini penyelesaian conflict dari branch master dan branch Baru")
